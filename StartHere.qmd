@@ -17,6 +17,4 @@ We will also be exploring the use of version control systems in concert with R. 
 -   [Git](https://git-scm.com/downloads) can be downloaded, along with Git Bash, the terminal
 -   [GitHub desktop](https://github.com/apps/desktop) is a *Git client* that offers GUI functionality. While some of this is available in RStudio, it is also helpful to have a Git client. I recommend GitHub desktop to start with, but there are several others, including [GitKraken](https://www.gitkraken.com/) or [SourceTree](https://www.sourcetreeapp.com/).
 
-Finally, one last program I recommend installing is [Inkscape](https://inkscape.org/), and open-source vector-graphics editor.
-
 ## Things to read
