@@ -25,7 +25,7 @@
     "href": "StartHere.html#programs-to-install",
     "title": "Before the Workshop",
     "section": "Programs to install",
-    "text": "Programs to install\nR https://www.r-project.org/\nRStudio from the Posit website https://posit.co/download/rstudio-desktop/\nRtools this will be important for building certain packages https://cran.r-project.org/bin/windows/Rtools/\nGit https://git-scm.com/downloads\nGitHub desktop https://github.com/apps/desktop"
+    "text": "Programs to install\nR https://www.r-project.org/\nRtools is a C++ toolchain that is important for building certain packages. It can also be downloaded from the CRAN website.\nRStudio is an integrated development environment (IDE). While you can run R code without it, RStudio offers a number of tools to improve the R coding experience. It can be downloaded from the Posit website (the Posit company was formally known as RStudio).\nWe will also be exploring the use of version control systems in concert with R. Note that some of these options offer paid plans, but we use the functionality of the free plans.\n\nGit can be downloaded, along with Git Bash, the terminal\nGitHub desktop is a Git client that offers GUI functionality. While some of this is available in RStudio, it is also helpful to have a Git client. I recommend GitHub desktop to start with, but there are several others, including GitKraken or SourceTree.\n\nFinally, one last program I recommend installing is Inkscape, and open-source vector-graphics editor."
   },
   {
     "objectID": "StartHere.html#things-to-read",

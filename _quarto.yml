@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "wfa_r_workshop_website"
+  title: "2025 WFA R Coding Workshop"
   navbar:
     left:
       - href: index.qmd

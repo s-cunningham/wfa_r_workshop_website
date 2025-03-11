@@ -8,12 +8,15 @@ In preparation for the workshop, please make sure the following programs are ins
 
 R <https://www.r-project.org/>
 
-RStudio from the Posit website <https://posit.co/download/rstudio-desktop/>
+[Rtools](https://cran.r-project.org/bin/windows/Rtools/) is a C++ toolchain that is important for building certain packages. It can also be downloaded from the CRAN website.
 
-Rtools this will be important for building certain packages <https://cran.r-project.org/bin/windows/Rtools/>
+[RStudio](https://posit.co/download/rstudio-desktop/) is an integrated development environment (IDE). While you can run R code without it, RStudio offers a number of tools to improve the R coding experience. It can be downloaded from the Posit website (the Posit company was formally known as RStudio).
 
-Git <https://git-scm.com/downloads>
+We will also be exploring the use of version control systems in concert with R. Note that some of these options offer paid plans, but we use the functionality of the free plans.
 
-GitHub desktop <https://github.com/apps/desktop>
+-   [Git](https://git-scm.com/downloads) can be downloaded, along with Git Bash, the terminal
+-   [GitHub desktop](https://github.com/apps/desktop) is a *Git client* that offers GUI functionality. While some of this is available in RStudio, it is also helpful to have a Git client. I recommend GitHub desktop to start with, but there are several others, including [GitKraken](https://www.gitkraken.com/) or [SourceTree](https://www.sourcetreeapp.com/).
+
+Finally, one last program I recommend installing is [Inkscape](https://inkscape.org/), and open-source vector-graphics editor.
 
 ## Things to read
