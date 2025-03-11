@@ -1,5 +1,5 @@
 ---
-title: "wfa_r_workshop_website"
+title: "2025 WFR R Workshop Website"
 ---
 
 This is a Quarto website.

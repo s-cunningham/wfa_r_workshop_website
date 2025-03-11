@@ -9,12 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - StartHere.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

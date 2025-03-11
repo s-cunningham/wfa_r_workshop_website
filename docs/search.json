@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wfa_r_workshop_website",
+    "title": "2025 WFR R Workshop Website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "StartHere.html",
+    "href": "StartHere.html",
+    "title": "Before the Workshop",
+    "section": "",
+    "text": "In preparation for the workshop, please make sure the following programs are installed and read through the following materials."
+  },
+  {
+    "objectID": "StartHere.html#programs-to-install",
+    "href": "StartHere.html#programs-to-install",
+    "title": "Before the Workshop",
+    "section": "Programs to install",
+    "text": "Programs to install\nR https://www.r-project.org/\nRStudio from the Posit website https://posit.co/download/rstudio-desktop/\nRtools this will be important for building certain packages https://cran.r-project.org/bin/windows/Rtools/\nGit https://git-scm.com/downloads\nGitHub desktop https://github.com/apps/desktop"
+  },
+  {
+    "objectID": "StartHere.html#things-to-read",
+    "href": "StartHere.html#things-to-read",
+    "title": "Before the Workshop",
+    "section": "Things to read",
+    "text": "Things to read"
   }
 ]

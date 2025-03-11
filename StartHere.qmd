@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "Before the Workshop"
 ---
 
-About this site
+In preparation for the workshop, please make sure the following programs are installed and read through the following materials.
 
-```{r}
-1 + 1
-```
+## Programs to install
+
+R <https://www.r-project.org/>
+
+RStudio from the Posit website <https://posit.co/download/rstudio-desktop/>
+
+Rtools this will be important for building certain packages <https://cran.r-project.org/bin/windows/Rtools/>
+
+Git <https://git-scm.com/downloads>
+
+GitHub desktop <https://github.com/apps/desktop>
+
+## Things to read
